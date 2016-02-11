@@ -35,3 +35,5 @@ distribute-*.tar.gz
 
 # Mac OSX
 .DS_Store
+.idea/
+montage_wrapper/cython_version.py
